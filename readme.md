@@ -10,3 +10,7 @@ Updating....
 
  1. [备忘 |常用的Zotero插件](https://hongbowei.com/2022/03/zotero-plugins.html)
  2. [Zotero的插件介绍](https://zhuanlan.zhihu.com/p/361584342)
+
+
+第三部分：开源插件合集
+1. [Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins](https://github.com/zotero-chinese/zotero-plugins/tree/main)
