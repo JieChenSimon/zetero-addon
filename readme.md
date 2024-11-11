@@ -14,3 +14,4 @@ Updating....
 
 第三部分：开源插件合集
 1. [Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins](https://github.com/zotero-chinese/zotero-plugins/tree/main)
+2. PKMer Zotero Plugins 合集(https://pkmer.cn/Pkmer-Docs/11-zotero/zotero%E6%8F%92%E4%BB%B6/zotero%E6%8F%92%E4%BB%B6/)
